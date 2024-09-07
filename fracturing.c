@@ -1,3 +1,13 @@
+//********************************************************
+// Programming Assignment 1
+// Author: Aryan Acevedo
+// UCFID: 4244137
+// Date: 9/8/24
+// Class: COP 3223, Professor Parra
+// Purpose: In this programming assignment, you will write a program that will house many internal
+// functions. Instead of typing everything within main(), you will create functions
+// with different responsibilities to start ”fracturing” your code.
+// //********************************************************
 #include <stdio.h>
 #include <math.h>  // For mathematical calculations like sqrt and pow
 
